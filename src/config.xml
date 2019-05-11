@@ -1,0 +1,12 @@
+<simInfo>
+    <displacementScale>1.0</displacementScale>
+    <gridLength>256</gridLength>
+    <simulationLength>256</simulationLength>
+    <wave>
+        <phillipsConstant>0.0000007</phillipsConstant>
+        <time>20.0</time>
+        <windSpeed>4000.0</windSpeed>
+        <windDirectionX>1.0</windDirectionX>
+        <windDirectionY>1.0</windDirectionY>
+    </wave>
+</simInfo>
