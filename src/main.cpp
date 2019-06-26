@@ -322,7 +322,8 @@ public:
           {
             continue;
           }
-
+          
+          // bad bad bad
           if(!task_) // task is null?
           {
             continue; // skip
